@@ -1,0 +1,19 @@
+#titulo{
+color: rgb(238, 175, 82);
+}
+.buttonClass{
+    width: 100px;
+    height: 50px;
+    background-color: black
+  color: white;
+    border-radius:20%;
+
+
+}
+.button-warning{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(208, 140, 4);
+    color: #f9f6f6;
+    border-radius:20%;
+}
